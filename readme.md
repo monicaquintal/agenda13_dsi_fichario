@@ -1,5 +1,5 @@
 ## Atividade:
-<hr>
+
 Seu Ubaldo, o artesão das alpargatas, entrou em contato com os desenvolvedores do site da Video Game Show dizendo que gostou muito da página e solicitando um site de casamento personalizado para a sua filha Zuleika.
 
 Para este projeto, o Sr. Ubaldo fez as seguintes solicitações:
